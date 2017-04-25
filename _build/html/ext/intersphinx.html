@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>sphinx.ext.intersphinx – Link to other projects’ documentation &#8212; Sphinx 使用手册</title>
+    
+    <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Math support in Sphinx" href="math.html" />
+    <link rel="prev" title="sphinx.ext.doctest – Test snippets in the documentation" href="doctest.html" /> 
+  </head>
+  <body role="document">
+      <div class="header" role="banner"><h1 class="heading"><a href="../index.html">
+          <span>Sphinx 使用手册</span></a></h1>
+        <h2 class="heading"><span>sphinx.ext.intersphinx – Link to other projects’ documentation</span></h2>
+      </div>
+      <div class="topnav" role="navigation" aria-label="top navigation">
+      
+        <p>
+        «&#160;&#160;<a href="doctest.html"><code class="docutils literal"><span class="pre">sphinx.ext.doctest</span></code> &#8211; Test snippets in the documentation</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="math.html">Math support in Sphinx</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="module-sphinx.ext.intersphinx">
+<span id="sphinx-ext-intersphinx-link-to-other-projects-documentation"></span><h1><a class="reference internal" href="#module-sphinx.ext.intersphinx" title="sphinx.ext.intersphinx: Link to other Sphinx documentation."><code class="xref py py-mod docutils literal"><span class="pre">sphinx.ext.intersphinx</span></code></a> &#8211; Link to other projects&#8217; documentation</h1>
+<div class="versionadded" id="index-0">
+<p><span class="versionmodified">New in version 0.5.</span></p>
+</div>
+<p>This extension can generate automatic links to the documentation of objects in
+other projects.</p>
+<p>Usage is simple: whenever Sphinx encounters a cross-reference that has no
+matching target in the current documentation set, it looks for targets in the
+documentation sets configured in <a href="#id1"><span class="problematic" id="id2">:confval:`intersphinx_mapping`</span></a>.  A reference
+like <code class="docutils literal"><span class="pre">:py:class:`zipfile.ZipFile`</span></code> can then link to the Python documentation
+for the ZipFile class, without you having to specify where it is located
+exactly.</p>
+<p>When using the &#8220;new&#8221; format (see below), you can even force lookup in a foreign
+set by prefixing the link target appropriately.  A link like <code class="docutils literal"><span class="pre">:ref:`comparison</span>
+<span class="pre">manual</span> <span class="pre">&lt;python:comparisons&gt;`</span></code> will then link to the label &#8220;comparisons&#8221; in the
+doc set &#8220;python&#8221;, if it exists.</p>
+<p>Behind the scenes, this works as follows:</p>
+<ul class="simple">
+<li>Each Sphinx HTML build creates a file named <code class="file docutils literal"><span class="pre">objects.inv</span></code> that contains
+a mapping from object names to URIs relative to the HTML set&#8217;s root.</li>
+<li>Projects using the Intersphinx extension can specify the location of such
+mapping files in the <a href="#id3"><span class="problematic" id="id4">:confval:`intersphinx_mapping`</span></a> config value.  The mapping
+will then be used to resolve otherwise missing references to objects into
+links to the other documentation.</li>
+<li>By default, the mapping file is assumed to be at the same location as the rest
+of the documentation; however, the location of the mapping file can also be
+specified individually, e.g. if the docs should be buildable without Internet
+access.</li>
+</ul>
+<p>To use intersphinx linking, add <code class="docutils literal"><span class="pre">'sphinx.ext.intersphinx'</span></code> to your
+<a href="#id5"><span class="problematic" id="id6">:confval:`extensions`</span></a> config value, and use these new config values to activate
+linking:</p>
+</div>
+
+
+      </div>
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
+      
+        <p>
+        «&#160;&#160;<a href="doctest.html"><code class="docutils literal"><span class="pre">sphinx.ext.doctest</span></code> &#8211; Test snippets in the documentation</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="math.html">Math support in Sphinx</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
+  </body>
+</html>

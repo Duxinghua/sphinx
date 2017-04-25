@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Storage Backends &#8212; Sphinx 使用手册</title>
+    
+    <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Sphinx FAQ" href="../faq.html" />
+    <link rel="prev" title="Search Adapters" href="searchadapters.html" /> 
+  </head>
+  <body role="document">
+      <div class="header" role="banner"><h1 class="heading"><a href="../index.html">
+          <span>Sphinx 使用手册</span></a></h1>
+        <h2 class="heading"><span>Storage Backends</span></h2>
+      </div>
+      <div class="topnav" role="navigation" aria-label="top navigation">
+      
+        <p>
+        «&#160;&#160;<a href="searchadapters.html">Search Adapters</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="../faq.html">Sphinx FAQ</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="storage-backends">
+<span id="storagebackends"></span><h1>Storage Backends</h1>
+<p>To create a custom storage backend you will need to subclass the
+<a class="reference internal" href="#sphinx.websupport.storage.StorageBackend" title="sphinx.websupport.storage.StorageBackend"><code class="xref py py-class docutils literal"><span class="pre">StorageBackend</span></code></a> class.  Then create an instance of the new class and
+pass that as the <cite>storage</cite> keyword argument when you create the
+<a class="reference internal" href="api.html#sphinx.websupport.WebSupport" title="sphinx.websupport.WebSupport"><code class="xref py py-class docutils literal"><span class="pre">WebSupport</span></code></a> object:</p>
+<div class="highlight-default"><div class="highlight"><pre><span></span><span class="n">support</span> <span class="o">=</span> <span class="n">WebSupport</span><span class="p">(</span><span class="n">srcdir</span><span class="o">=</span><span class="n">srcdir</span><span class="p">,</span>
+                     <span class="n">builddir</span><span class="o">=</span><span class="n">builddir</span><span class="p">,</span>
+                     <span class="n">storage</span><span class="o">=</span><span class="n">MyStorage</span><span class="p">())</span>
+</pre></div>
+</div>
+<p>For more information about creating a custom storage backend, please see the
+documentation of the <a class="reference internal" href="#sphinx.websupport.storage.StorageBackend" title="sphinx.websupport.storage.StorageBackend"><code class="xref py py-class docutils literal"><span class="pre">StorageBackend</span></code></a> class below.</p>
+<dl class="class">
+<dt id="sphinx.websupport.storage.StorageBackend">
+<em class="property">class </em><code class="descclassname">sphinx.websupport.storage.</code><code class="descname">StorageBackend</code></dt>
+<dd><p>Defines an interface for storage backends.</p>
+</dd></dl>
+
+<div class="section" id="storagebackend-methods">
+<h2>StorageBackend Methods</h2>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
+      
+        <p>
+        «&#160;&#160;<a href="searchadapters.html">Search Adapters</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="../faq.html">Sphinx FAQ</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
+  </body>
+</html>

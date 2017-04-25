@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>sphinx.ext.oldcmarkup – Compatibility extension for old C markup &#8212; Sphinx 使用手册</title>
+    
+    <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Sphinx Web Support" href="../websupport.html" />
+    <link rel="prev" title="sphinx.ext.viewcode – Add links to highlighted source code" href="viewcode.html" /> 
+  </head>
+  <body role="document">
+      <div class="header" role="banner"><h1 class="heading"><a href="../index.html">
+          <span>Sphinx 使用手册</span></a></h1>
+        <h2 class="heading"><span>sphinx.ext.oldcmarkup – Compatibility extension for old C markup</span></h2>
+      </div>
+      <div class="topnav" role="navigation" aria-label="top navigation">
+      
+        <p>
+        «&#160;&#160;<a href="viewcode.html"><code class="docutils literal"><span class="pre">sphinx.ext.viewcode</span></code> &#8211; Add links to highlighted source code</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="../websupport.html">Sphinx Web Support</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="module-sphinx.ext.oldcmarkup">
+<span id="sphinx-ext-oldcmarkup-compatibility-extension-for-old-c-markup"></span><h1><a class="reference internal" href="#module-sphinx.ext.oldcmarkup" title="sphinx.ext.oldcmarkup: Allow further use of the pre-domain C markup"><code class="xref py py-mod docutils literal"><span class="pre">sphinx.ext.oldcmarkup</span></code></a> &#8211; Compatibility extension for old C markup</h1>
+<div class="versionadded">
+<p><span class="versionmodified">New in version 1.0.</span></p>
+</div>
+<p>This extension is a transition helper for projects that used the old
+(pre-domain) C markup, i.e. the directives like <code class="docutils literal"><span class="pre">cfunction</span></code> and roles like
+<code class="docutils literal"><span class="pre">cfunc</span></code>.  Since the introduction of domains, they must be called by their
+fully-qualified name (<code class="docutils literal"><span class="pre">c:function</span></code> and <code class="docutils literal"><span class="pre">c:func</span></code>, respectively) or, with the
+default domain set to <code class="docutils literal"><span class="pre">c</span></code>, by their new name (<code class="docutils literal"><span class="pre">function</span></code> and <code class="docutils literal"><span class="pre">func</span></code>).
+(See <a class="reference internal" href="../domains.html#c-domain"><span class="std std-ref">The C Domain</span></a> for the details.)</p>
+<p>If you activate this extension, it will register the old names, and you can
+use them like before Sphinx 1.0.  The directives are:</p>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">cfunction</span></code></li>
+<li><code class="docutils literal"><span class="pre">cmember</span></code></li>
+<li><code class="docutils literal"><span class="pre">cmacro</span></code></li>
+<li><code class="docutils literal"><span class="pre">ctype</span></code></li>
+<li><code class="docutils literal"><span class="pre">cvar</span></code></li>
+</ul>
+<p>The roles are:</p>
+<ul class="simple">
+<li><code class="docutils literal"><span class="pre">cdata</span></code></li>
+<li><code class="docutils literal"><span class="pre">cfunc</span></code></li>
+<li><code class="docutils literal"><span class="pre">cmacro</span></code></li>
+<li><code class="docutils literal"><span class="pre">ctype</span></code></li>
+</ul>
+<p>However, it is advised to migrate to the new markup &#8211; this extension is a
+compatibility convenience and will disappear in a future version of Sphinx.</p>
+</div>
+
+
+      </div>
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
+      
+        <p>
+        «&#160;&#160;<a href="viewcode.html"><code class="docutils literal"><span class="pre">sphinx.ext.viewcode</span></code> &#8211; Add links to highlighted source code</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="../websupport.html">Sphinx Web Support</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
+  </body>
+</html>

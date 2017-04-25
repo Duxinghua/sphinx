@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>sphinx.ext.inheritance_diagram – Include inheritance diagrams &#8212; Sphinx 使用手册</title>
+    
+    <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="sphinx.ext.refcounting – Keep track of reference counting behavior" href="refcounting.html" />
+    <link rel="prev" title="sphinx.ext.graphviz – Add Graphviz graphs" href="graphviz.html" /> 
+  </head>
+  <body role="document">
+      <div class="header" role="banner"><h1 class="heading"><a href="../index.html">
+          <span>Sphinx 使用手册</span></a></h1>
+        <h2 class="heading"><span>sphinx.ext.inheritance_diagram – Include inheritance diagrams</span></h2>
+      </div>
+      <div class="topnav" role="navigation" aria-label="top navigation">
+      
+        <p>
+        «&#160;&#160;<a href="graphviz.html"><code class="docutils literal"><span class="pre">sphinx.ext.graphviz</span></code> &#8211; Add Graphviz graphs</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="refcounting.html"><code class="docutils literal"><span class="pre">sphinx.ext.refcounting</span></code> &#8211; Keep track of reference counting behavior</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="module-sphinx.ext.inheritance_diagram">
+<span id="sphinx-ext-inheritance-diagram-include-inheritance-diagrams"></span><h1><a class="reference internal" href="#module-sphinx.ext.inheritance_diagram" title="sphinx.ext.inheritance_diagram: Support for displaying inheritance diagrams via graphviz."><code class="xref py py-mod docutils literal"><span class="pre">sphinx.ext.inheritance_diagram</span></code></a> &#8211; Include inheritance diagrams</h1>
+<div class="versionadded">
+<p><span class="versionmodified">New in version 0.6.</span></p>
+</div>
+<p>This extension allows you to include inheritance diagrams, rendered via the
+<a class="reference internal" href="graphviz.html#module-sphinx.ext.graphviz" title="sphinx.ext.graphviz: Support for Graphviz graphs."><code class="xref py py-mod docutils literal"><span class="pre">Graphviz</span> <span class="pre">extension</span></code></a>.</p>
+<p>It adds this directive:</p>
+<dl class="directive">
+<dt id="directive-inheritance-diagram">
+<code class="descname">.. inheritance-diagram::</code></dt>
+<dd><p>This directive has one or more arguments, each giving a module or class
+name.  Class names can be unqualified; in that case they are taken to exist
+in the currently described module (see <a class="reference internal" href="../domains.html#directive-py:module" title="py:module directive"><code class="xref rst rst-dir docutils literal"><span class="pre">py:module</span></code></a>).</p>
+<p>For each given class, and each class in each given module, the base classes
+are determined.  Then, from all classes and their base classes, a graph is
+generated which is then rendered via the graphviz extension to a directed
+graph.</p>
+<p>This directive supports an option called <code class="docutils literal"><span class="pre">parts</span></code> that, if given, must be an
+integer, advising the directive to remove that many parts of module names
+from the displayed names.  (For example, if all your class names start with
+<code class="docutils literal"><span class="pre">lib.</span></code>, you can give <code class="docutils literal"><span class="pre">:parts:</span> <span class="pre">1</span></code> to remove that prefix from the displayed
+node names.)</p>
+<p>It also supports a <code class="docutils literal"><span class="pre">private-bases</span></code> flag option; if given, private base
+classes (those whose name starts with <code class="docutils literal"><span class="pre">_</span></code>) will be included.</p>
+<div class="versionchanged">
+<p><span class="versionmodified">Changed in version 1.1: </span>Added <code class="docutils literal"><span class="pre">private-bases</span></code> option; previously, all bases were always
+included.</p>
+</div>
+</dd></dl>
+
+<p>New config values are:</p>
+</div>
+
+
+      </div>
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
+      
+        <p>
+        «&#160;&#160;<a href="graphviz.html"><code class="docutils literal"><span class="pre">sphinx.ext.graphviz</span></code> &#8211; Add Graphviz graphs</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="refcounting.html"><code class="docutils literal"><span class="pre">sphinx.ext.refcounting</span></code> &#8211; Keep track of reference counting behavior</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
+  </body>
+</html>

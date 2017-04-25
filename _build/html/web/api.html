@@ -1,0 +1,115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en_US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>The WebSupport Class &#8212; Sphinx 使用手册</title>
+    
+    <link rel="stylesheet" href="../_static/haiku.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    '../',
+        VERSION:     '',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true,
+        SOURCELINK_SUFFIX: '.txt'
+      };
+    </script>
+    <script type="text/javascript" src="../_static/jquery.js"></script>
+    <script type="text/javascript" src="../_static/underscore.js"></script>
+    <script type="text/javascript" src="../_static/doctools.js"></script>
+    <link rel="index" title="Index" href="../genindex.html" />
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="next" title="Search Adapters" href="searchadapters.html" />
+    <link rel="prev" title="Web Support Quick Start" href="quickstart.html" /> 
+  </head>
+  <body role="document">
+      <div class="header" role="banner"><h1 class="heading"><a href="../index.html">
+          <span>Sphinx 使用手册</span></a></h1>
+        <h2 class="heading"><span>The WebSupport Class</span></h2>
+      </div>
+      <div class="topnav" role="navigation" aria-label="top navigation">
+      
+        <p>
+        «&#160;&#160;<a href="quickstart.html">Web Support Quick Start</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="searchadapters.html">Search Adapters</a>&#160;&#160;»
+        </p>
+
+      </div>
+      <div class="content">
+        
+        
+  <div class="section" id="the-websupport-class">
+<span id="websupportapi"></span><h1>The WebSupport Class</h1>
+<dl class="class">
+<dt id="sphinx.websupport.WebSupport">
+<em class="property">class </em><code class="descclassname">sphinx.websupport.</code><code class="descname">WebSupport</code></dt>
+<dd><p>The main API class for the web support package.  All interactions with the
+web support package should occur through this class.</p>
+<p>The class takes the following keyword arguments:</p>
+<dl class="docutils">
+<dt>srcdir</dt>
+<dd>The directory containing reStructuredText source files.</dd>
+<dt>builddir</dt>
+<dd>The directory that build data and static files should be placed in.  This
+should be used when creating a <a class="reference internal" href="#sphinx.websupport.WebSupport" title="sphinx.websupport.WebSupport"><code class="xref py py-class docutils literal"><span class="pre">WebSupport</span></code></a> object that will be
+used to build data.</dd>
+<dt>datadir</dt>
+<dd>The directory that the web support data is in.  This should be used when
+creating a <a class="reference internal" href="#sphinx.websupport.WebSupport" title="sphinx.websupport.WebSupport"><code class="xref py py-class docutils literal"><span class="pre">WebSupport</span></code></a> object that will be used to retrieve data.</dd>
+<dt>search</dt>
+<dd>This may contain either a string (e.g. &#8216;xapian&#8217;) referencing a built-in
+search adapter to use, or an instance of a subclass of
+<a class="reference internal" href="searchadapters.html#sphinx.websupport.search.BaseSearch" title="sphinx.websupport.search.BaseSearch"><code class="xref py py-class docutils literal"><span class="pre">BaseSearch</span></code></a>.</dd>
+<dt>storage</dt>
+<dd>This may contain either a string representing a database uri, or an
+instance of a subclass of <a class="reference internal" href="storagebackends.html#sphinx.websupport.storage.StorageBackend" title="sphinx.websupport.storage.StorageBackend"><code class="xref py py-class docutils literal"><span class="pre">StorageBackend</span></code></a>.  If this is
+not provided, a new sqlite database will be created.</dd>
+<dt>moderation_callback</dt>
+<dd>A callable to be called when a new comment is added that is not
+displayed.  It must accept one argument: a dictionary representing the
+comment that was added.</dd>
+<dt>staticdir</dt>
+<dd>If static files are served from a location besides <code class="docutils literal"><span class="pre">'/static'</span></code>, this
+should be a string with the name of that location
+(e.g. <code class="docutils literal"><span class="pre">'/static_files'</span></code>).</dd>
+<dt>docroot</dt>
+<dd>If the documentation is not served from the base path of a URL, this
+should be a string specifying that path (e.g. <code class="docutils literal"><span class="pre">'docs'</span></code>).</dd>
+</dl>
+</dd></dl>
+
+<div class="section" id="methods">
+<h2>Methods</h2>
+</div>
+</div>
+
+
+      </div>
+      <div class="bottomnav" role="navigation" aria-label="bottom navigation">
+      
+        <p>
+        «&#160;&#160;<a href="quickstart.html">Web Support Quick Start</a>
+        &#160;&#160;::&#160;&#160;
+        <a class="uplink" href="../contents.html">Contents</a>
+        &#160;&#160;::&#160;&#160;
+        <a href="searchadapters.html">Search Adapters</a>&#160;&#160;»
+        </p>
+
+      </div>
+
+    <div class="footer" role="contentinfo">
+        &#169; Copyright .
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.5.5.
+    </div>
+  </body>
+</html>

@@ -10,7 +10,7 @@
    :maxdepth: 3
    :caption: 目录:
 
-   download/index
+   note/index
    id/index
    password/index
    btc/index

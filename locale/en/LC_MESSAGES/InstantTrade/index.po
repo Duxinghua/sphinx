@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"POT-Creation-Date: 2017-09-06 20:05+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -35,19 +35,26 @@ msgstr "Place an order"
 
 #: ../../InstantTrade/index.rst:27
 msgid "买币最小限额是0.1BTC，填写好购买的币数后，可以在最下方看到要付款的金额。"
-msgstr "The minimum amount for buying Bitcoin is 0.1BTC. After filling in the specific number of Bitcoin you want to buy, you can see the corresponding payment at the bottom. "
+msgstr ""
+"The minimum amount for buying Bitcoin is 0.1BTC. After filling in the "
+"specific number of Bitcoin you want to buy, you can see the corresponding"
+" payment at the bottom. "
 
 #: ../../InstantTrade/index.rst:28
 msgid "默认支付方式是支付宝，如果需要大额买币的话，建议使用银行卡付款。"
-msgstr "The default payment method is Alipay. If you ask for a large amount of buying Bitcoin, it is recommended to pay by Bank Card."
+msgstr ""
+"The default payment method is Alipay. If you ask for a large amount of "
+"buying Bitcoin, it is recommended to pay by Bank Card."
 
 #: ../../InstantTrade/index.rst:29
 msgid "矿工费：买币金额小于1BTC，矿工费由用户支付。大于1BTC，矿工费由比特派支付。"
-msgstr "Fee: Buy account < 1BTC, user pay the fee. Buy account > 1BTC, Bitpie pay fee"
+msgstr ""
+"Fee: Buy account < 1BTC, user pay the fee. Buy account > 1BTC, Bitpie pay"
+" fee"
 
 #: ../../InstantTrade/index.rst:30
-msgid "优惠码：使用优惠吗可以让一件买卖有优惠，而且还可以做推广员。"
-msgstr "Coupon Code: use coupon code can coupon your instant trade account,and you can do fieldwork"
+msgid "优惠码：买卖有优惠。"
+msgstr ""
 
 #: ../../InstantTrade/index.rst:34
 msgid "付款"
@@ -59,15 +66,22 @@ msgstr "The valid time to pay is only ten-minutes after placing an order."
 
 #: ../../InstantTrade/index.rst:37
 msgid "付款账户必须是本人账户，支付宝需要实名认证，银行卡开户者必须是本人，否则无法完成交易。"
-msgstr "Payment account must be owner account.  Alipay requires Real-name authentication and the bank card account must be your own, otherwise the transaction won’t be completed."
+msgstr ""
+"Payment account must be owner account.  Alipay requires Real-name "
+"authentication and the bank card account must be your own, otherwise the "
+"transaction won’t be completed."
 
 #: ../../InstantTrade/index.rst:38
 msgid "付款时请备注好订单号，点击下订单号后面的数组就复制了，直接粘贴过去就可以了。"
-msgstr "Please remark the order number well during the process of payment. You can click the array behind this order number to copy and paste it."
+msgstr ""
+"Please remark the order number well during the process of payment. You "
+"can click the array behind this order number to copy and paste it."
 
 #: ../../InstantTrade/index.rst:39
 msgid "备注时候，只要备注订单，其他的文字信息如比特币等不要填写。"
-msgstr "The order number is the only information to remark. Don’t fill in other text information such as Bitcoin, etc."
+msgstr ""
+"The order number is the only information to remark. Don’t fill in other "
+"text information such as Bitcoin, etc."
 
 #: ../../InstantTrade/index.rst:40
 msgid "付款完成后点击已付款按钮。"
@@ -79,7 +93,9 @@ msgstr "Receive Bitcoin"
 
 #: ../../InstantTrade/index.rst:45
 msgid "交易员确认收到款后，会立刻给您放币的，在首页可以看到收币的记录。"
-msgstr "After confirming the received money, dealers will immediately send you Bitcoin. You can see this record in the home page."
+msgstr ""
+"After confirming the received money, dealers will immediately send you "
+"Bitcoin. You can see this record in the home page."
 
 #: ../../InstantTrade/index.rst:51
 msgid "一键卖币"
@@ -87,7 +103,10 @@ msgstr "Instant Trade for selling Bitcoin"
 
 #: ../../InstantTrade/index.rst:56
 msgid "卖币最小限额是0.1BTC，填写好购买的币数后，可以在最下方看到收款金额。"
-msgstr "The minimum amount of selling Bitcoin is 0.1BTC. After filling in the specific number of Bitcoin you want to sell, you can see the received money at the bottom."
+msgstr ""
+"The minimum amount of selling Bitcoin is 0.1BTC. After filling in the "
+"specific number of Bitcoin you want to sell, you can see the received "
+"money at the bottom."
 
 #: ../../InstantTrade/index.rst:59
 msgid "填写收款信息"
@@ -99,11 +118,15 @@ msgstr "Currently it supports the payment methods-- Alipay and Bank Card ."
 
 #: ../../InstantTrade/index.rst:62
 msgid "收款账户只能是本人的账户，并且确认无误，便于交易员给你付款。"
-msgstr "Receivable account should also be owner account. After confirming it correct, dealers will pay you money instantly."
+msgstr ""
+"Receivable account should also be owner account. After confirming it "
+"correct, dealers will pay you money instantly."
 
 #: ../../InstantTrade/index.rst:63
 msgid "由于需要币确认后才能给你付款，这个过程可能需要几分钟，耐心等下。"
-msgstr "Since dealers must firstly confirm to receive Bitcoin and then give you a payment, it maybe takes a few minutes to process, so please be patience."
+msgstr ""
+"Since dealers must firstly confirm to receive Bitcoin and then give you a"
+" payment, it maybe takes a few minutes to process, so please be patience."
 
 #: ../../InstantTrade/index.rst:66
 msgid "确认收款"
@@ -112,4 +135,10 @@ msgstr "Confirm the received money"
 #: ../../InstantTrade/index.rst:68
 msgid "在确认收到款后，点击“我已收款”"
 msgstr "After confirming money, please click 'Received money'"
+
+#~ msgid "优惠码：使用优惠吗可以让一件买卖有优惠，而且还可以做推广员。"
+#~ msgstr ""
+#~ "Coupon Code: use coupon code can "
+#~ "coupon your instant trade account,and "
+#~ "you can do fieldwork"
 

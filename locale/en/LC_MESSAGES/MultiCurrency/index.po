@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"POT-Creation-Date: 2017-09-06 20:35+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,11 +22,11 @@ msgid "币种切换"
 msgstr ""
 
 #: ../../MultiCurrency/index.rst:11
-msgid "比特派目前支持比特币（BTC），莱特币(LTC），狗狗币(DOGE),在首页左上角可以点击切换当前钱包的币种。"
+msgid "比特派目前支持比特币（BTC）、莱特币(LTC）、比特现金（BCC）、以太坊（ETH）、狗狗币(DOGE)；在首页左上角可以点击切换当前钱包的币种。"
 msgstr ""
 
 #: ../../MultiCurrency/index.rst:13
-msgid "目前一键买卖和OTC交易支持比特币交易哈，将很快会支持LTC 和 DOGE。"
+msgid "目前一键买卖BTC、LTC。"
 msgstr ""
 
 #~ msgid "版本升级"
@@ -44,4 +44,16 @@ msgstr ""
 #~ "is a renewal or maintenance of "
 #~ "Bitpie, it will be announced in "
 #~ "advance. "
+
+#~ msgid "比特派目前支持比特币（BTC），莱特币(LTC），狗狗币(DOGE),在首页左上角可以点击切换当前钱包的币种。"
+#~ msgstr ""
+
+#~ msgid "目前一键买卖和OTC交易支持比特币交易哈，将很快会支持LTC 和 DOGE。"
+#~ msgstr ""
+
+#~ msgid "比特派目前支持比特币（BTC），莱特币(LTC），比特现金（BCC）,以太坊（ETH），狗狗币(DOGE),在首页左上角可以点击切换当前钱包的币种。"
+#~ msgstr ""
+
+#~ msgid "目前一键买卖BTC,LTC。"
+#~ msgstr ""
 

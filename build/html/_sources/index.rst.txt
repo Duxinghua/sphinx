@@ -24,5 +24,7 @@
    address/index
    collection/index
 
+.. raw:: html
+   :file: 1.html
 
 

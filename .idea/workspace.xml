@@ -2,48 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fff2de6d-f160-4c5d-936a-fe40d8067338" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/download/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/raq/index.rst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/soft/index.rst" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/source/1.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/config.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/下载安装.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/doctrees/身份认证.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/address/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/btc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/collection/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/download/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/environment.pickle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/id/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/note/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/otc/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/password/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/raq/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/send/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/setup/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/soft/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/tx/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/.doctrees/version/index.doctree" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/address/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/btc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/collection/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/download/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/id/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/note/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/otc/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/password/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/raq/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/send/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/setup/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/soft/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/tx/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/gettext/version/index.pot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/21.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/31.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_images/41.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/config.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/下载安装.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_sources/身份认证.rst.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/alabaster.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/_static/custom.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/html/config.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/environment.pickle" afterPath="$PROJECT_DIR$/build/doctrees/environment.pickle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/objects.inv" afterPath="$PROJECT_DIR$/build/html/objects.inv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/address/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/address/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/btc/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/btc/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/collection/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/collection/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/download/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/download/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/id/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/id/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/note/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/note/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/otc/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/otc/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/password/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/password/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/raq/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/raq/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/send/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/send/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/setup/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/setup/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/soft/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/soft/index.doctree" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/tx/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/tx/index.doctree" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/address/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/address/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/btc/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/btc/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/download/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/download/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/id/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/id/index.rst.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/doctrees/version/index.doctree" afterPath="$PROJECT_DIR$/build/doctrees/version/index.doctree" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/.buildinfo" afterPath="$PROJECT_DIR$/build/html/.buildinfo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/note/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/note/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/otc/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/otc/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/password/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/password/index.rst.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/_sources/tx/index.rst.txt" afterPath="$PROJECT_DIR$/build/html/_sources/tx/index.rst.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/address/index.html" afterPath="$PROJECT_DIR$/build/html/address/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/btc/index.html" afterPath="$PROJECT_DIR$/build/html/btc/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/collection/index.html" afterPath="$PROJECT_DIR$/build/html/collection/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/download/index.html" afterPath="$PROJECT_DIR$/build/html/download/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/genindex.html" afterPath="$PROJECT_DIR$/build/html/genindex.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/id/index.html" afterPath="$PROJECT_DIR$/build/html/id/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/index.html" afterPath="$PROJECT_DIR$/build/html/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/note/index.html" afterPath="$PROJECT_DIR$/build/html/note/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/otc/index.html" afterPath="$PROJECT_DIR$/build/html/otc/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/password/index.html" afterPath="$PROJECT_DIR$/build/html/password/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/raq/index.html" afterPath="$PROJECT_DIR$/build/html/raq/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/search.html" afterPath="$PROJECT_DIR$/build/html/search.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/searchindex.js" afterPath="$PROJECT_DIR$/build/html/searchindex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/send/index.html" afterPath="$PROJECT_DIR$/build/html/send/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/setup/index.html" afterPath="$PROJECT_DIR$/build/html/setup/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/soft/index.html" afterPath="$PROJECT_DIR$/build/html/soft/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/tx/index.html" afterPath="$PROJECT_DIR$/build/html/tx/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/address/index.rst" afterPath="$PROJECT_DIR$/source/address/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/btc/index.rst" afterPath="$PROJECT_DIR$/source/btc/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/id/index.rst" afterPath="$PROJECT_DIR$/source/id/index.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/html/version/index.html" afterPath="$PROJECT_DIR$/build/html/version/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/index.rst" afterPath="$PROJECT_DIR$/source/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/note/index.rst" afterPath="$PROJECT_DIR$/source/note/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/otc/index.rst" afterPath="$PROJECT_DIR$/source/otc/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/password/index.rst" afterPath="$PROJECT_DIR$/source/password/index.rst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/tx/index.rst" afterPath="$PROJECT_DIR$/source/tx/index.rst" />
     </list>
     <ignored path="sphinx.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -75,20 +117,32 @@
         </entry>
       </file>
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/download/index.rst">
+        <entry file="file://$PROJECT_DIR$/source/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            <state relative-caret-position="390">
+              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/index.rst">
+      <file leaf-file-name="1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1495514492000" expanded="false" signature="0:38" ph="/** Created by test on 17/5/23. ...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="209" column="7" selection-start-line="209" selection-start-column="7" selection-end-line="209" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -97,10 +151,34 @@
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/btc/index.rst">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
+            <state relative-caret-position="375">
+              <caret line="37" column="8" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/conf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1685">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/img/1.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/img/2.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -115,40 +193,6 @@
         </entry>
       </file>
       <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/tx/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/version/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build/html/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="235">
@@ -158,17 +202,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.rst" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/password/index.rst">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -178,8 +219,6 @@
       <list>
         <option value="$PROJECT_DIR$/build/html/下载安装.html" />
         <option value="$PROJECT_DIR$/source/config.rst" />
-        <option value="$PROJECT_DIR$/source/conf.py" />
-        <option value="$PROJECT_DIR$/build/html/index.html" />
         <option value="$PROJECT_DIR$/source/version/index.rst" />
         <option value="$PROJECT_DIR$/source/collection/index.rst" />
         <option value="$PROJECT_DIR$/source/send/index.rst" />
@@ -192,8 +231,11 @@
         <option value="$PROJECT_DIR$/source/tx/index.rst" />
         <option value="$PROJECT_DIR$/source/download/index.rst" />
         <option value="$PROJECT_DIR$/source/note/index.rst" />
-        <option value="$PROJECT_DIR$/source/index.rst" />
         <option value="$PROJECT_DIR$/source/raq/index.rst" />
+        <option value="$PROJECT_DIR$/source/conf.py" />
+        <option value="$PROJECT_DIR$/source/1.js" />
+        <option value="$PROJECT_DIR$/build/html/index.html" />
+        <option value="$PROJECT_DIR$/source/index.rst" />
       </list>
     </option>
   </component>
@@ -204,8 +246,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="137" />
-    <option name="y" value="159" />
+    <option name="y" value="32" />
     <option name="width" value="1280" />
     <option name="height" value="722" />
   </component>
@@ -234,8 +275,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -282,255 +323,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="version" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="soft" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="send" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="raq" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="password" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="otc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="note" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="id" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="download" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="collection" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="btc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="source" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="address" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sphinx" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
+              <option name="myItemId" value="locale " />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -847,10 +640,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="137" y="159" width="1280" height="722" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="32" width="1280" height="722" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.159375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.159375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -886,43 +679,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/version/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/collection/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/otc/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="7" selection-start-line="63" selection-start-column="0" selection-end-line="68" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/tx/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/address/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -930,7 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -953,7 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -969,11 +727,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -996,7 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1012,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,11 +789,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="80" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="80" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1071,7 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,14 +860,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="73" column="17" selection-start-line="73" selection-start-column="17" selection-end-line="73" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/html/btc/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1145,16 +884,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/img/1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/address/index.rst">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1162,7 +895,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1170,7 +902,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
           <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1178,7 +909,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
           <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1186,15 +916,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/tx/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1210,22 +931,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="48" column="0" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/btc/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="2" selection-start-line="31" selection-start-column="2" selection-end-line="31" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/soft/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1246,30 +951,94 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/tx/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/soft/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/locale /en/LC_MESSAGES/btc/index.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/img/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/btc/index.rst">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="37" column="8" selection-start-line="37" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/gettext/id/index.pot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1495514492000" expanded="false" signature="0:38" ph="/** Created by test on 17/5/23. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/index.rst">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="390">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1685">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#0;n#ul#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/raq/index.rst">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+        <state relative-caret-position="484">
+          <caret line="209" column="7" selection-start-line="209" selection-start-column="7" selection-end-line="209" selection-end-column="7" />
           <folding />
         </state>
       </provider>

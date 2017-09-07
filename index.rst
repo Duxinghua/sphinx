@@ -27,9 +27,9 @@
    MessageSigning/index
    BankCard/index
    MultiCurrency/index
-   Bitherbcc/index
-   Bitpiebcc/index
-   Btcbcc/index
+   BitherBcc/index
+   BitpieBcc/index
+   BtcBcc/index
    AnotherAssets/index
 
 

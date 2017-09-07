@@ -516,7 +516,7 @@ msgstr "30.How to update the latest version of Bitpie?"
 #: ../../FAQ/index.rst:180
 msgid "iOS和Android客户端点击“底部菜单 — 设置 - 检测新版本”。"
 msgstr ""
-"Clicking 'Bottom Menu - Settingss - Detecting new version' on IOS and Android"
+"Clicking 'Bottom Menu - Settingss - Detecting new version' on IOS and Android."
 
 #: ../../FAQ/index.rst:183
 msgid "31.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？什么叫某个交易ID与其他多个交易依赖？"

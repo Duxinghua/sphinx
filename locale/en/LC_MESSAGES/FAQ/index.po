@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"POT-Creation-Date: 2017-09-07 10:37+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -514,11 +514,9 @@ msgid "30.怎么更新到比特派最新版本？"
 msgstr "30.How to update the latest version of Bitpie?"
 
 #: ../../FAQ/index.rst:180
-#, fuzzy
-msgid "iIOS和Android客户端点击“底部菜单 — 设置 - 检测新版本”。"
+msgid "iOS和Android客户端点击“底部菜单 — 设置 - 检测新版本”。"
 msgstr ""
-"Clicking 'Bottom Menu - Settingss - Detecting new version' on IOS and "
-"Android"
+"Clicking 'Bottom Menu - Settingss - Detecting new version' on IOS and Android"
 
 #: ../../FAQ/index.rst:183
 msgid "31.为什么我只打算购买1个交易加速器的时候，显示需要多个加速器？什么叫某个交易ID与其他多个交易依赖？"

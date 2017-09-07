@@ -214,7 +214,7 @@ msgstr ""
 #: ../../FAQ/index.rst:76
 #, fuzzy
 msgid "买币方"
-msgstr "Seller party"
+msgstr "Buyer party"
 
 #: ../../FAQ/index.rst:77
 msgid "一键买币 ( > 1BTC )"

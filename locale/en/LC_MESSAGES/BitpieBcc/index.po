@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-06 17:49+0800\n"
+"POT-Creation-Date: 2017-08-01 20:56+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,23 +17,23 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../Bitpiebcc/index.rst:2
+#: ../../bitpiebcc/index.rst:2
 msgid "比特派钱包获取BCC"
-msgstr ""
+msgstr "Bitcoin Cash is in Bitpie"
 
-#: ../../Bitpiebcc/index.rst:4
+#: ../../bitpiebcc/index.rst:4
 msgid "1.更新比特派最新版本。"
-msgstr ""
+msgstr "1.Update Bitpie to the latest version."
 
-#: ../../Bitpiebcc/index.rst:6
+#: ../../bitpiebcc/index.rst:6
 msgid "2.打开比特派会自动提示'您有Bitcoin Cash可领取，立即领取？'。"
-msgstr ""
+msgstr "2.Aftering opening the Bitpie, there is an automatic information 'You have obtainable Bitcoin Cash. Receive it immediately? '"
 
-#: ../../Bitpiebcc/index.rst:14
+#: ../../bitpiebcc/index.rst:14
 msgid "3.选择领取。"
-msgstr ""
+msgstr "3.Choose Receive."
 
-#: ../../Bitpiebcc/index.rst:22
+#: ../../bitpiebcc/index.rst:22
 msgid "4.领取成功之后会自动切换到BCC界面；可对BCC进行发币、收币等操作。"
-msgstr ""
+msgstr "4.After getting it, there will automatically switch to the BCC interface for sending, receive BCC and so on."
 

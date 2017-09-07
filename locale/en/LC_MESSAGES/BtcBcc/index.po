@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-06 17:49+0800\n"
+"POT-Creation-Date: 2017-08-01 20:25+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,51 +17,56 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.4.0\n"
 
-#: ../../Btcbcc/index.rst:2
+#: ../../btcbcc/index.rst:2
 msgid "获取BCC"
-msgstr ""
+msgstr "Get Bitcoin Cash"
 
-#: ../../Btcbcc/index.rst:5
+#: ../../btcbcc/index.rst:5
 msgid "比特派钱包获取BCC"
-msgstr ""
+msgstr "Bitcoin Cash is in Bitpie"
 
-#: ../../Btcbcc/index.rst:7
+#: ../../btcbcc/index.rst:7
 msgid "1.更新比特派最新版本。"
-msgstr ""
+msgstr "1.Update Bitpie to the latest version "
 
-#: ../../Btcbcc/index.rst:9
+#: ../../btcbcc/index.rst:9
 msgid "2.打开比特派会自动提示'您有Bitcoin Cash可领取，立即领取？'。"
 msgstr ""
+"2.Aftering opening the Bitpie, there is an automatic information 'You "
+"have obtainable Bitcoin Cash. Receive it immediately? '"
 
-#: ../../Btcbcc/index.rst:17
+#: ../../btcbcc/index.rst:17
 msgid "3.选择领取。"
-msgstr ""
+msgstr "3.Choose Receive."
 
-#: ../../Btcbcc/index.rst:25
+#: ../../btcbcc/index.rst:25
 msgid "4.领取成功之后会自动切换到BCC界面；可对BCC进行发币、收币等操作。"
 msgstr ""
+"4.After getting it, there will automatically switch to the BCC interface "
+"for sending, receive BCC and so on"
 
-#: ../../Btcbcc/index.rst:36
+#: ../../btcbcc/index.rst:36
 msgid "比太钱包获取BCC"
 msgstr ""
 
-#: ../../Btcbcc/index.rst:39
+#: ../../btcbcc/index.rst:39
 msgid "1.更新比太钱包，通过比太热钱包进行操作。"
-msgstr ""
+msgstr "1.Update Bither to the latest version，it is operated by Bither hot wallet."
 
-#: ../../Btcbcc/index.rst:41
+#: ../../btcbcc/index.rst:41
 msgid "2.设置-高级选项-获取BCC。"
-msgstr ""
+msgstr "2.setting-Advanced options-obtain BCC"
 
-#: ../../Btcbcc/index.rst:50
+#: ../../btcbcc/index.rst:50
 msgid "3.选择相对应的账户地址，输入比特派BCC地址及密码。"
 msgstr ""
+"3.Choose the corresponding account address and enter into Bitpie BCC address and password."
 
-#: ../../Btcbcc/index.rst:65
+#: ../../btcbcc/index.rst:65
 msgid "备注:因为BTC与BCC的地址现在没有区分，为了能成功获取到BCC，不丢币，所以我们规定使用比特派上的BCC地址。其它钱包的密钥导入比太，也可以领取BCC。"
-msgstr ""
+msgstr "Note: since BTC and BCC address are not different now, for successfully obtaining  BCC and not losing the coin, so we require to use the BCC address on the BCC. The key of other wallet can be inducted into Bither to obtain BCC"
 
-#: ../../Btcbcc/index.rst:68
+#: ../../btcbcc/index.rst:68
 msgid "如果是比太热钱包监控冷钱包，这时需要进行签名交易。"
 msgstr ""
-
+"If the Bitpie hot wallet  monitors a cold wallet, the signature is required for transaction."

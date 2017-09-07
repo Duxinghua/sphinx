@@ -212,7 +212,6 @@ msgid "一键买币 ( < 1BTC )"
 msgstr ""
 
 #: ../../FAQ/index.rst:76
-#, fuzzy
 msgid "买币方"
 msgstr "Buyer party"
 

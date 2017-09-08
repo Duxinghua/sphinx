@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"POT-Creation-Date: 2017-09-07 11:35+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,17 +31,37 @@ msgid ""
 " 比特派基于HD钱包，用户掌控私钥，交易完成后的币，直接归用户自己保管； 比特派上交易的都是“真币”，对“假币”说不！对“部分准备制”说不！ "
 "比特派提供更多更安全的选择，为您减少资金划转困难的痛苦； 比特派提供基于多重签名的托管（OTC）交易服务和个性化的VIP大客户服务； "
 "比特派提供快速下单的一键买卖交易服务和全面周到的客户反馈服务。"
-msgstr "Bitpie(bitpie.com) is developed by Bither(bither.net),Bitpie.com becomes a comprehensive service platform for new generation Blockchain Asset on the basis of HD wallet technology, Multiple signatures and Chain transactions. Upon it, you use digital currency easier and safer. The good reputation of Bither wallet will motivate us to provide more professional and perfect services of Bitpie. In terms of our team’s unique insights and solid strength on  blockchain and Cryptography technology, Bither wallet , as a bitcoin wallet in china, is the only one that has recommended by the official Bitcoin.org( Related Links: https://bitcoin.org/en/choose-your-wallet). Our team fully know how to develop the safe wallet and how to protect the asset on Blockchain, so we believe Bitpie will offer more pleasant experience to win your absolute trust in the future."
+msgstr ""
+"Bitpie(bitpie.com) is developed by Bither(bither.net),Bitpie.com becomes "
+"a comprehensive service platform for new generation Blockchain Asset on "
+"the basis of HD wallet technology, Multiple signatures and Chain "
+"transactions. Upon it, you use digital currency easier and safer. The "
+"good reputation of Bither wallet will motivate us to provide more "
+"professional and perfect services of Bitpie. In terms of our team’s "
+"unique insights and solid strength on  blockchain and Cryptography "
+"technology, Bither wallet , as a bitcoin wallet in china, is the only one"
+" that has recommended by the official Bitcoin.org( Related Links: "
+"https://bitcoin.org/en/choose-your-wallet). Our team fully know how to "
+"develop the safe wallet and how to protect the asset on Blockchain, so we"
+" believe Bitpie will offer more pleasant experience to win your absolute "
+"trust in the future."
 
-#: ../../Function/index.rst:24
+#: ../../Function/index.rst:23
+msgid "1、切换法币 2、币种兑换 3、6 < 确认数 < 100 4、100 < 确认数"
+msgstr ""
+
+#: ../../Function/index.rst:32
 msgid "订单"
 msgstr "Order"
 
-#: ../../Function/index.rst:41
+#: ../../Function/index.rst:49
 msgid "设置"
 msgstr "Setting"
 
-#: ../../Function/index.rst:52
+#: ../../Function/index.rst:60
 msgid "我的"
 msgstr "My"
+
+#~ msgid "1、切换法币 2、目前支持BTC 和 BCC 兑换 3、6 < 确认数 < 100 4、100 < 确认数"
+#~ msgstr ""
 

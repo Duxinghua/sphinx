@@ -209,7 +209,7 @@ msgstr "Payer for Miners’ Fee"
 
 #: ../../FAQ/index.rst:76
 msgid "一键买币 ( < 1BTC )"
-msgstr ""
+msgstr "Buying Bitcoin on Instant Trade(Less than 1BTC)"
 
 #: ../../FAQ/index.rst:76
 msgid "买币方"
@@ -217,7 +217,7 @@ msgstr "Buyer party"
 
 #: ../../FAQ/index.rst:77
 msgid "一键买币 ( > 1BTC )"
-msgstr ""
+msgstr "Buying Bitcoin on Instant Trade(Greater than 1BTC)"
 
 #: ../../FAQ/index.rst:77
 msgid "比特派"

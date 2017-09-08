@@ -69,9 +69,8 @@ msgid "创建广告"
 msgstr "Advertisement Establishment"
 
 #: ../../OTC/index.rst:32
-#, fuzzy
 msgid "我的—我的广告—创建广告"
-msgstr "Left menu - My Ads - Create Ads"
+msgstr "my - My Ads - Create Ads"
 
 #: ../../OTC/index.rst:33
 msgid "广告类型设置成在线，目前不支持现金交易。可以选择购买或出售。广告设置中的——购买就是别人卖币给你，出售就是你卖币给别人。"

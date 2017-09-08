@@ -44,7 +44,6 @@ msgid "3、 待签名的消息，根据自己需求填写"
 msgstr "3.According to require to fill in the message"
 
 #: ../../MessageSigning/index.rst:30
-#, fuzzy
 msgid "4、 签名过的签名消息，可进行复制或生成二维码"
 msgstr "4.Have been signing message"
 

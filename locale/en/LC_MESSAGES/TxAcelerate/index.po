@@ -26,7 +26,6 @@ msgid "说明"
 msgstr "Description"
 
 #: ../../TxAcelerate/index.rst:7
-#, fuzzy
 msgid "加速器是针对未确认的交易进行加速的，一个加速器对应一个不大于1K的未确认交易，如果你的依赖交易比较多，可能不止需要一个加速器的。"
 msgstr ""
 "TX Accelerator is designed for unconfirmed transactions to accelerate and"
@@ -62,7 +61,6 @@ msgid "比特派交易加速使用方法"
 msgstr "How to use Bitpie TX Accelerator?"
 
 #: ../../TxAcelerate/index.rst:23
-#, fuzzy
 msgid "底部菜单—我的—交易加速器－待加速（加速）。"
 msgstr "My - TX Accelerator - Upper right corner (acceleration)."
 

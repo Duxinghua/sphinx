@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-08-17 20:44+0800\n"
+"POT-Creation-Date: 2017-09-08 17:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,9 +32,8 @@ msgid "认证"
 msgstr "Authentication"
 
 #: ../../VerificationOfIdentity/index.rst:9
-#, fuzzy
-msgid "主页—身份认证"
-msgstr "Identity authentication"
+msgid "主页－全部－身份认证"
+msgstr "Home page - ALL - Identity authentication"
 
 #: ../../VerificationOfIdentity/index.rst:10
 msgid "身份认证不需要按照顺序认证，如果你要是完成大额交易的话，可以直接认证最高等级。"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-06 20:05+0800\n"
+"POT-Creation-Date: 2017-09-08 17:04+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,7 +54,7 @@ msgstr ""
 
 #: ../../InstantTrade/index.rst:30
 msgid "优惠码：买卖有优惠。"
-msgstr ""
+msgstr "Coupon code:Instant trade has deals."
 
 #: ../../InstantTrade/index.rst:34
 msgid "付款"
@@ -138,7 +138,7 @@ msgstr "After confirming money, please click 'Received money'"
 
 #~ msgid "优惠码：使用优惠吗可以让一件买卖有优惠，而且还可以做推广员。"
 #~ msgstr ""
-#~ "Coupon Code: use coupon code can "
-#~ "coupon your instant trade account,and "
-#~ "you can do fieldwork"
+
+#~ msgid "优惠码：买卖有优惠。"
+#~ msgstr ""
 

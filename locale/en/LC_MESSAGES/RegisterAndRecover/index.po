@@ -126,7 +126,6 @@ msgid "1.通过抄写的种子进行恢复。"
 msgstr "1.Seed Recovery by copying it well."
 
 #: ../../RegisterAndRecover/index.rst:81
-#, fuzzy
 msgid "恢复种子就是恢复你之前已注册的比特派钱包和账户，需要使用之前备份好的种子（12个单词或汉字）。从左到右，从上到下，一个一个输入哦，如果输入某个字错误，点击那个字可修改。"
 msgstr ""
 "Seed Recovery is to recover your previously registered wallet and account"

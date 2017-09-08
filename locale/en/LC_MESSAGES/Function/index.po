@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-07 11:35+0800\n"
+"POT-Creation-Date: 2017-09-08 15:57+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,22 +46,37 @@ msgstr ""
 " believe Bitpie will offer more pleasant experience to win your absolute "
 "trust in the future."
 
-#: ../../Function/index.rst:23
-msgid "1、切换法币 2、币种兑换 3、6 < 确认数 < 100 4、100 < 确认数"
+#: ../../Function/index.rst:24
+msgid "1、切换法币"
 msgstr ""
 
-#: ../../Function/index.rst:32
+#: ../../Function/index.rst:26
+msgid "2、币种兑换"
+msgstr ""
+
+#: ../../Function/index.rst:28
+msgid "3、6 < 确认数 < 100"
+msgstr ""
+
+#: ../../Function/index.rst:30
+msgid "4、100 < 确认数"
+msgstr ""
+
+#: ../../Function/index.rst:36
 msgid "订单"
 msgstr "Order"
 
-#: ../../Function/index.rst:49
+#: ../../Function/index.rst:53
 msgid "设置"
 msgstr "Setting"
 
-#: ../../Function/index.rst:60
+#: ../../Function/index.rst:64
 msgid "我的"
 msgstr "My"
 
 #~ msgid "1、切换法币 2、目前支持BTC 和 BCC 兑换 3、6 < 确认数 < 100 4、100 < 确认数"
+#~ msgstr ""
+
+#~ msgid "1、切换法币 2、币种兑换 3、6 < 确认数 < 100 4、100 < 确认数"
 #~ msgstr ""
 

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitpie 0.1\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2017-09-06 20:35+0800\n"
+"POT-Creation-Date: 2017-09-08 16:25+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -19,15 +19,11 @@ msgstr ""
 
 #: ../../MultiCurrency/index.rst:2
 msgid "币种切换"
-msgstr ""
+msgstr "Cryptocurrency switch"
 
 #: ../../MultiCurrency/index.rst:11
-msgid "比特派目前支持比特币（BTC）、莱特币(LTC）、比特现金（BCC）、以太坊（ETH）、狗狗币(DOGE)；在首页左上角可以点击切换当前钱包的币种。"
-msgstr ""
-
-#: ../../MultiCurrency/index.rst:13
-msgid "目前一键买卖BTC、LTC。"
-msgstr ""
+msgid "在首页左上角可以点击切换当前钱包的币种。"
+msgstr "In the left top corner of home page, you can click to switch the type of currency"
 
 #~ msgid "版本升级"
 #~ msgstr "Version Upgrade"
@@ -55,5 +51,11 @@ msgstr ""
 #~ msgstr ""
 
 #~ msgid "目前一键买卖BTC,LTC。"
+#~ msgstr ""
+
+#~ msgid "目前一键买卖BTC、LTC。"
+#~ msgstr ""
+
+#~ msgid "比特派目前支持比特币（BTC）、莱特币(LTC）、比特现金（BCC）、以太坊（ETH）、狗狗币(DOGE)；在首页左上角可以点击切换当前钱包的币种。"
 #~ msgstr ""
 

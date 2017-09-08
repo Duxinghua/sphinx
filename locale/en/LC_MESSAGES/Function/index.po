@@ -52,15 +52,15 @@ msgstr "1.Currency switchover"
 
 #: ../../Function/index.rst:26
 msgid "2、币种兑换"
-msgstr "2. Coin Exchange"
+msgstr "2.Coin Exchange"
 
 #: ../../Function/index.rst:28
 msgid "3、6 < 确认数 < 100"
-msgstr "3. 6 < Confirmations < 100"
+msgstr "3.6 < Confirmations < 100"
 
 #: ../../Function/index.rst:30
 msgid "4、100 < 确认数"
-msgstr "4. 100 < Confirmations"
+msgstr "4.100 < Confirmations"
 
 #: ../../Function/index.rst:36
 msgid "订单"

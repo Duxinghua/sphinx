@@ -576,7 +576,7 @@ msgid ""
 "、以及“搜索结果”https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
 " 来了解。"
 msgstr ""
-msgstr "&nbsp;"
+msgstr "--------------"
 
 #~"You can refer to the 'Bither wallet’s official website  "
 #~"https://bither.net/' Bither wallet’s FAQ https://github.com/bither"

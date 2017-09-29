@@ -562,21 +562,22 @@ msgstr ""
 " a defined price, a lower cost, faster dealing speed and a limited time, "
 "you can choose to join in. "
 
-#~#: ../../FAQ/index.rst:197
-#~msgid "34.我想了解一下比太钱包（bither.net)的使用方法，有什么资料？"
-#~msgstr ""
+#: ../../FAQ/index.rst:197
+msgid "34.我想了解一下比太钱包（bither.net)的使用方法，有什么资料？"
+msgstr ""
+"-------------------------------------------------------------------------------"
 #~"34.If I would like to know the usage of Bither wallet (bither.net), how "
 #~"could I look up this related information?"
 
-#~#: ../../FAQ/index.rst:198
-#~#, python-format
-#~msgid ""
-#~"你可以通过“比太钱包官网”https://bither.net/ 、“比太钱包常见问题解答”https://github.com/bither"
-#~"/bither-doc/blob/gh-pages/faq.md "
-#~"、以及“搜索结果”https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
-#~" 来了解。"
-#~msgstr ""
-#~"&nbsp;"
+#: ../../FAQ/index.rst:198
+#, python-format
+msgid ""
+"你可以通过“比太钱包官网”https://bither.net/ 、“比太钱包常见问题解答”https://github.com/bither"
+"/bither-doc/blob/gh-pages/faq.md "
+"、以及“搜索结果”https://www.baidu.com/s?ie=utf8&oe=utf8&wd=%E6%AF%94%E5%A4%AA%E9%92%B1%E5%8C%85%E4%BD%93%E9%AA%8C&tn=98010089_dg&ch=2"
+" 来了解。"
+msgstr ""
+"--------------------------------------------------------------------------------"
 
 #~"You can refer to the 'Bither wallet’s official website  "
 #~"https://bither.net/' Bither wallet’s FAQ https://github.com/bither"
